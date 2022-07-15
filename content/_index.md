@@ -1,5 +1,5 @@
 ---
-title: 🪴 Faissal's Notes
+title: Notas Med
 ---
 
 Notas sobre diversos temas.
