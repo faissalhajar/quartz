@@ -1,6 +1,6 @@
 name: Faissal Hajar
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -14,7 +14,7 @@ GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
-page_title: "🪴 Faissal's Notes"
+page_title: "Notas Med"
 links:
   - link_name: Github
     link: https://github.com/faissalhajar
