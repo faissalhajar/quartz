@@ -1,7 +1,9 @@
 <!-- Contact Info -->
 <div id="contact_buttons">
     <footer>
-        <p>Feito por {{ $.Site.Data.config.name }} usando <a href="https://github.com/jackyzha0/quartz">Quartz</a>, © {{ dateFormat "2006" now }}</p>
+        <p>Feito por {{ $.Site.Data.config.name }} 
+            <!-- usando <a href="https://github.com/jackyzha0/quartz">Quartz</a> -->
+             © {{ dateFormat "2006" now }}</p>
         <ul>
             {{ if not .IsHome }}
             <li><a href="{{ $.Site.BaseURL}}">Home</a></li>
