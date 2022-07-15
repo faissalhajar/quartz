@@ -1,6 +1,6 @@
 baseURL = "https://faissalhajar.github.io/quartz/"
-languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+languageCode = "pt-br"
+googleAnalytics = ""
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [

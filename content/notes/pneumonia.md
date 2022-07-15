@@ -20,7 +20,7 @@
 
 - MRSA
 
-**Imunodeficientes: **Bactrim
+**Imunodeficientes:** Bactrim
 
 - TB, fungos e Pneumocystis
 
