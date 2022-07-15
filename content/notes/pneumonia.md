@@ -1,3 +1,7 @@
+---
+title: Pneumonia
+---
+
 # **Pneumonia**
 
 **PAC:** Cefalosporina de 3a + Macrolideos OU FQ
